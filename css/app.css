@@ -1,0 +1,26 @@
+body {
+    font-family: georgia;
+}
+
+.header {
+    background-color: white;
+}
+
+.websearch {
+    background-color: #EDEDED;
+    padding: 1px;
+}
+
+.about-google {
+    background-color: white;
+    padding: 1px;
+}
+
+.subscribe {
+    background-color: #EDEDED;
+    padding: 1px;
+}
+
+.footer {
+    background-color: white;
+}
